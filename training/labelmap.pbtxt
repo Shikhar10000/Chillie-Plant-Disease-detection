@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'Bacterial Leaf Spot chilli'
+}
+
+item {
+  id: 2
+  name: 'White Rot (Sclerotinia sclerotiorum) chilli'
+}
+
+item {
+  id: 3
+  name: 'Leaf Curl Complex (CMV and Gemini Virus) chilli'
+}
+
+item {
+  id: 4
+  name: 'Leaf Blight (Alternaria alternata and Cercospora capsici) chilli'
+}
+
+item {
+  id: 5
+  name: 'Dieback and Anthracnose chilli'
+}
